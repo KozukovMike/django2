@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block relax %}
+    {% include 'slider_fantasy.html' %}
+    {% if text_list %}
+        {% for text in text_list %}
+            {{ text.content|safe }}
+        {% endfor %}
+    {% endif %}
+{% endblock %}

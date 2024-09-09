@@ -1,0 +1,61 @@
+.footer {
+    background-color: #f57c00;
+    color: #ffffff;
+    padding: 40px 0;
+}
+.footer .footer-heading {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+.footer .contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    color: #ced4da;
+    text-decoration: none;
+}
+.footer .contact-item:hover {
+    color: #ffffff;
+}
+.footer .contact-info h6 {
+    margin: 0;
+    font-size: 1em;
+    color: #ffffff;
+}
+.footer .contact-info p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #ced4da;
+}
+.footer .social-icons a {
+    margin-right: 10px;
+    color: #ced4da;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.footer .social-icons a:hover {
+    color: #ffffff;
+}
+.contact-item {
+    margin-bottom: 15px;
+}
+
+.contact-icon {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.logo {
+    width: 180px;
+    height: 80px;
+}
+
+.logo-description {
+    font-weight: bold;
+    color: #000000;
+}

@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block main %}
+    {% if content %}
+        {% for text in content %}
+            {{ text.content|safe }}
+        {% endfor %}
+    {% endif %}
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+
+    <form id="registrationForm" action="{% url 'submit_registration_page' %}" method="post">
+        {% if message %}
+            <p>{{ message }}</p>
+        {% else %}
+            <p>Оставьте свой номер телефона и наш специалист свяжется с Вами в ближайшее время</p>
+        {% endif %}
+        {% csrf_token %}
+        {{ form }}
+        <button type="submit">Отправить</button>
+    </form>
+{% endblock %}

@@ -1,0 +1,14 @@
+/* Custom Navbar Styling */
+.navbar {
+    background-color: #f57c00; /* Orange background color */
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #000000; /* Black text color */
+}
+.navbar .nav-link.active {
+    color: #000000; /* Black text color for active link */
+}
+.navbar .nav-link:hover {
+    color: #ffffff; /* Darker shade of black on hover */
+}

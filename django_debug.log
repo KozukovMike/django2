@@ -1,0 +1,276 @@
+DEBUG 2024-09-05 19:52:48,016 autoreload File C:\Users\Admin\PycharmProjects\my_django\my_django\settings.py previous mtime: 1725555066.8610773, current mtime: 1725555167.0947478
+DEBUG 2024-09-05 19:52:48,017 autoreload C:\Users\Admin\PycharmProjects\my_django\my_django\settings.py notified as changed. Signal results: [(<function template_changed at 0x000001EFA7275DA0>, None), (<function translation_file_changed at 0x000001EFA8252E80>, None)].
+INFO 2024-09-05 19:52:48,017 autoreload C:\Users\Admin\PycharmProjects\my_django\my_django\settings.py changed, reloading.
+INFO 2024-09-05 19:52:48,592 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 19:53:02,723 autoreload C:\Users\Admin\PycharmProjects\my_django\telegrambot\send_tg_message.py changed, reloading.
+INFO 2024-09-05 19:53:03,312 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 19:53:03,812 basehttp "GET /main/ HTTP/1.1" 200 6194
+INFO 2024-09-05 19:53:09,059 send_tg_message {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+INFO 2024-09-05 19:53:09,062 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 19:53:28,746 send_tg_message {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+INFO 2024-09-05 19:53:28,749 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 19:53:30,144 send_tg_message {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+INFO 2024-09-05 19:53:30,147 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 19:53:30,936 send_tg_message {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+INFO 2024-09-05 19:53:30,939 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 19:53:39,121 send_tg_message {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+INFO 2024-09-05 19:53:39,124 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 19:53:54,550 autoreload C:\Users\Admin\PycharmProjects\my_django\telegrambot\send_tg_message.py changed, reloading.
+INFO 2024-09-05 19:53:55,125 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 19:53:55,566 basehttp "GET /admin/telegrambot/telegramsettings/1/change/ HTTP/1.1" 200 14439
+INFO 2024-09-05 19:53:55,628 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-05 19:54:04,638 basehttp "POST /admin/telegrambot/telegramsettings/1/change/ HTTP/1.1" 302 0
+INFO 2024-09-05 19:54:04,666 basehttp "GET /admin/telegrambot/telegramsettings/ HTTP/1.1" 200 13678
+INFO 2024-09-05 19:54:04,843 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-05 19:54:11,696 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 19:54:21,533 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 19:55:18,258 autoreload C:\Users\Admin\PycharmProjects\my_django\telegrambot\send_tg_message.py changed, reloading.
+INFO 2024-09-05 19:55:18,844 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 19:55:24,588 send_tg_message {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+INFO 2024-09-05 19:55:24,603 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 20:01:46,866 autoreload C:\Users\Admin\PycharmProjects\my_django\telegrambot\send_tg_message.py changed, reloading.
+INFO 2024-09-05 20:01:47,458 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:01:54,389 basehttp "GET /admin/telegrambot/telegramsettings/1/change/ HTTP/1.1" 200 14392
+INFO 2024-09-05 20:01:54,420 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-05 20:01:59,295 basehttp "POST /admin/telegrambot/telegramsettings/1/change/ HTTP/1.1" 302 0
+INFO 2024-09-05 20:01:59,324 basehttp "GET /admin/telegrambot/telegramsettings/ HTTP/1.1" 200 13678
+INFO 2024-09-05 20:01:59,493 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-05 20:02:01,253 send_tg_message Сообщение отправлено
+INFO 2024-09-05 20:02:01,258 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 20:05:39,806 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:05:40,436 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:08:13,093 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:08:13,653 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:08:14,286 send_tg_message Сообщение отправлено
+INFO 2024-09-05 20:08:14,301 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5641
+INFO 2024-09-05 20:10:15,881 basehttp "GET /main/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:10:15,982 basehttp "GET /static/css/footer.css HTTP/1.1" 200 1094
+INFO 2024-09-05 20:10:15,986 basehttp "GET /media/infoimg/vecteezy_telephone-contact-icon-in-black-circle-shape_8506400.png HTTP/1.1" 200 173827
+INFO 2024-09-05 20:10:15,993 basehttp "GET /media/infoimg/vecteezy_instagram-logo-png-instagram-icon-transparent_18930415.png HTTP/1.1" 200 878550
+INFO 2024-09-05 20:10:15,995 basehttp "GET /media/uploads/2024/09/03/4.jpg HTTP/1.1" 200 820504
+INFO 2024-09-05 20:10:15,999 basehttp "GET /static/css/main.css HTTP/1.1" 200 693
+INFO 2024-09-05 20:10:15,999 basehttp "GET /media/infoimg/vk_5968835.png HTTP/1.1" 200 17375
+INFO 2024-09-05 20:10:16,001 basehttp "GET /media/infoimg/vecteezy_phone-icon-symbol-on-transparent-background_17177709.png HTTP/1.1" 200 322679
+INFO 2024-09-05 20:10:16,008 basehttp "GET /static/css/header.css HTTP/1.1" 200 374
+INFO 2024-09-05 20:10:16,009 basehttp "GET /media/infoimg/logo-fantasy-1_6KM9iV1.png HTTP/1.1" 200 50941
+WARNING 2024-09-05 20:10:17,069 log Not Found: /favicon.ico
+WARNING 2024-09-05 20:10:17,070 basehttp "GET /favicon.ico HTTP/1.1" 404 3067
+INFO 2024-09-05 20:10:20,832 send_tg_message Сообщение отправлено
+INFO 2024-09-05 20:10:20,835 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5313
+INFO 2024-09-05 20:12:19,836 autoreload C:\Users\Admin\PycharmProjects\my_django\my_django\urls.py changed, reloading.
+INFO 2024-09-05 20:12:20,414 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:12:21,790 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:12:46,766 autoreload C:\Users\Admin\PycharmProjects\my_django\my_django\urls.py changed, reloading.
+INFO 2024-09-05 20:12:47,353 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:13:34,255 autoreload C:\Users\Admin\PycharmProjects\my_django\my_django\urls.py changed, reloading.
+INFO 2024-09-05 20:13:34,834 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:13:37,273 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:13:52,928 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:14:08,564 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:14:09,112 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:14:14,622 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:14:27,441 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:14:27,979 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:14:28,356 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:14:36,934 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:14:37,478 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:14:37,965 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:14:57,700 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:14:58,260 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:14:58,867 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:15:17,490 basehttp "GET /main/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:15:21,625 basehttp "GET /main/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:16:05,690 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:16:06,224 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:16:46,659 basehttp "GET /main/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:16:52,585 send_tg_message Сообщение отправлено
+INFO 2024-09-05 20:16:52,588 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5313
+ERROR 2024-09-05 20:16:58,316 log Internal Server Error: /main/submit_registration/
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\my_django\venv\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\PycharmProjects\my_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\my_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\my_django\main\views.py", line 14, in main
+    name = request.POST['name']
+           ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Admin\PycharmProjects\my_django\venv\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'name'
+ERROR 2024-09-05 20:16:58,319 basehttp "POST /main/submit_registration/ HTTP/1.1" 500 80183
+INFO 2024-09-05 20:18:08,663 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:18:09,198 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:18:09,805 basehttp "GET /main/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:18:14,204 send_tg_message Сообщение отправлено
+INFO 2024-09-05 20:18:14,209 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5866
+INFO 2024-09-05 20:20:38,114 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:20:38,677 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:23:16,515 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:23:17,155 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:23:21,732 basehttp "GET /main/ HTTP/1.1" 200 5888
+INFO 2024-09-05 20:23:26,035 send_tg_message Сообщение отправлено
+INFO 2024-09-05 20:23:26,040 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5800
+INFO 2024-09-05 20:28:53,062 autoreload C:\Users\Admin\PycharmProjects\my_django\main\views.py changed, reloading.
+INFO 2024-09-05 20:28:53,631 autoreload Watching for file changes with StatReloader
+INFO 2024-09-05 20:35:27,075 send_tg_message Сообщение отправлено
+INFO 2024-09-05 20:35:27,102 basehttp "POST /main/submit_registration/ HTTP/1.1" 200 5800
+INFO 2024-09-06 16:21:20,349 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-06 16:21:21,730 log Not Found: /
+WARNING 2024-09-06 16:21:21,731 basehttp "GET / HTTP/1.1" 404 3016
+WARNING 2024-09-06 16:21:21,966 log Not Found: /favicon.ico
+WARNING 2024-09-06 16:21:21,967 basehttp "GET /favicon.ico HTTP/1.1" 404 3067
+INFO 2024-09-06 16:21:25,580 basehttp "GET /main/ HTTP/1.1" 200 5888
+INFO 2024-09-06 16:21:25,599 basehttp "GET /static/css/header.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,599 basehttp "GET /static/css/footer.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,610 basehttp "GET /media/infoimg/logo-fantasy-1_6KM9iV1.png HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,611 basehttp "GET /media/uploads/2024/09/03/4.jpg HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,634 basehttp "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,640 basehttp "GET /media/infoimg/vecteezy_phone-icon-symbol-on-transparent-background_17177709.png HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,643 basehttp "GET /media/infoimg/vecteezy_telephone-contact-icon-in-black-circle-shape_8506400.png HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,643 basehttp "GET /media/infoimg/vk_5968835.png HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:25,644 basehttp "GET /media/infoimg/vecteezy_instagram-logo-png-instagram-icon-transparent_18930415.png HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:29,167 basehttp "GET /main/ HTTP/1.1" 200 5888
+INFO 2024-09-06 16:21:33,573 basehttp "GET /admin/ HTTP/1.1" 200 15330
+INFO 2024-09-06 16:21:33,604 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,632 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,632 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,632 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,633 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,633 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,698 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,703 basehttp "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,703 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-09-06 16:21:33,703 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-09-06 16:54:06,366 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 16:54:07,071 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 16:56:32,673 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 16:56:33,272 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 16:56:37,260 basehttp "GET /admin/ HTTP/1.1" 200 15330
+INFO 2024-09-06 16:57:27,358 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 13847
+INFO 2024-09-06 16:57:27,380 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,384 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,384 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,385 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,386 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,386 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,386 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,389 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,389 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,394 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 16:57:27,400 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:27,493 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:29,251 basehttp "GET /admin/info/contacts/4/change/ HTTP/1.1" 200 13930
+INFO 2024-09-06 16:57:29,272 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:29,278 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 16:57:29,288 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:29,371 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:29,371 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-09-06 16:57:33,830 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 13847
+INFO 2024-09-06 16:57:34,817 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 13847
+INFO 2024-09-06 16:57:34,836 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 16:58:04,548 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 16:58:05,134 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 16:58:05,553 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 14429
+INFO 2024-09-06 16:58:05,572 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:00:05,031 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:00:05,575 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:01:10,897 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:01:11,430 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:01:19,271 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:01:19,795 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:01:20,276 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 15233
+INFO 2024-09-06 17:01:20,307 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:20,425 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-09-06 17:01:24,563 basehttp "GET /admin/info/contacts/?contact_phone=%2B375296330388 HTTP/1.1" 200 14995
+INFO 2024-09-06 17:01:24,581 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:25,458 basehttp "GET /admin/info/contacts/? HTTP/1.1" 200 15233
+INFO 2024-09-06 17:01:25,481 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:26,118 basehttp "GET /admin/info/contacts/?contact_phone=%2B375296667777 HTTP/1.1" 200 14995
+INFO 2024-09-06 17:01:26,141 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:27,462 basehttp "GET /admin/info/contacts/?contact_phone=%2B375296330388 HTTP/1.1" 200 14995
+INFO 2024-09-06 17:01:27,490 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:30,603 basehttp "GET /admin/info/contacts/? HTTP/1.1" 200 15233
+INFO 2024-09-06 17:01:30,620 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:38,305 basehttp "GET /admin/info/contacts/?_facets=True HTTP/1.1" 200 15427
+INFO 2024-09-06 17:01:38,326 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:38,403 basehttp "GET /static/admin/img/icon-hidelink.svg HTTP/1.1" 200 784
+INFO 2024-09-06 17:01:39,930 basehttp "GET /admin/info/contacts/? HTTP/1.1" 200 15233
+INFO 2024-09-06 17:01:39,949 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:49,105 basehttp "GET /admin/info/contacts/? HTTP/1.1" 200 15233
+INFO 2024-09-06 17:01:49,125 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:49,292 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:01:49,828 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:01:50,354 basehttp "GET /admin/info/contacts/? HTTP/1.1" 200 14429
+INFO 2024-09-06 17:01:50,372 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:01:51,469 basehttp "GET /admin/info/contacts/? HTTP/1.1" 200 14429
+INFO 2024-09-06 17:01:51,494 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:02:00,864 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:02:01,395 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:02:03,829 basehttp "GET /admin/info/contacts/? HTTP/1.1" 200 14758
+INFO 2024-09-06 17:02:03,849 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:02:03,872 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-09-06 17:02:27,921 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:02:28,482 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:02:37,376 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:02:37,906 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:03:22,462 basehttp "GET /admin/info/contacts/?q=%2B3752963 HTTP/1.1" 200 14418
+INFO 2024-09-06 17:03:22,487 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:04:30,717 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:04:31,312 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:04:40,274 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:04:40,845 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:05:07,136 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:05:07,669 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:05:08,212 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 14758
+INFO 2024-09-06 17:05:08,276 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:05:16,637 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:05:17,177 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:06:06,101 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:06:06,618 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:07:09,921 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:07:10,468 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:07:10,910 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 14758
+INFO 2024-09-06 17:07:11,055 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:07:18,786 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 14758
+INFO 2024-09-06 17:07:20,063 basehttp "GET /admin/info/contacts/4/change/ HTTP/1.1" 200 13930
+INFO 2024-09-06 17:07:20,092 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:07:30,189 basehttp "POST /admin/info/contacts/4/change/ HTTP/1.1" 302 0
+INFO 2024-09-06 17:07:30,207 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 15002
+INFO 2024-09-06 17:07:30,404 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:07:30,418 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2024-09-06 17:07:33,787 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 14758
+INFO 2024-09-06 17:09:50,564 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:09:51,131 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:09:52,737 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 15155
+INFO 2024-09-06 17:09:52,768 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:12:12,957 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:12:13,566 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:12:59,462 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:13:00,008 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:15:23,454 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:15:24,060 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:15:24,652 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 15155
+INFO 2024-09-06 17:15:24,670 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:16:04,778 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:16:05,287 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:16:24,260 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:16:24,785 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:16:25,345 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 15160
+INFO 2024-09-06 17:16:25,396 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:17:15,824 autoreload C:\Users\Admin\PycharmProjects\my_django\info\admin.py changed, reloading.
+INFO 2024-09-06 17:17:16,461 autoreload Watching for file changes with StatReloader
+INFO 2024-09-06 17:17:21,666 basehttp "GET /admin/info/contacts/3/change/ HTTP/1.1" 200 14572
+INFO 2024-09-06 17:17:21,699 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-06 17:17:27,038 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 15160
+INFO 2024-09-06 17:19:05,083 basehttp "GET /admin/info/contacts/ HTTP/1.1" 200 15160
+INFO 2024-09-06 17:19:05,101 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
